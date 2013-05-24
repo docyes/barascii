@@ -1,6 +1,5 @@
-<pre>
+
 barascii
-</pre>
 ========
 
 A JavaScript ASCII Bar Char Generator 
