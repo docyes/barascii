@@ -1,4 +1,4 @@
-barascii
+Bar ASCII
 ========
 
 A JavaScript ASCII Bar Chart Generator 
