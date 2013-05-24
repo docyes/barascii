@@ -1,7 +1,9 @@
+<pre>
 barascii
+</pre>
 ========
 
-An ASCII Bar Chart
+A JavaScript ASCII Bar Char Generator 
 
 <pre>
 ▅▂▅▂▄▅▂▁▂▄▅▂▅▂▂▄▁▂▄▅█▄▅▂▁▂▄▅▂▅██████▄▅▅▂▂▄▅▂▁▂▄▅▂▁▂▄▅▂▅▂▂▄
